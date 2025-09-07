@@ -1,7 +1,7 @@
 ​Autoría y Breve Introducción
 _Por [Cristhiam Quiñonez](https://www.linkedin.com/in/cristhiam-qui%C3%B1onez-7b6222325/)_ 
 
-[![DOI](https://zenodo.org/badge/1051915596.svg)](https://doi.org/10.5281/zenodo.17070287)
+[![DOI](https://zenodo.org/badge/1051915596.svg)](https://doi.org/10.5281/zenodo.17070288)
 
 
 Una metodología para integrar la aromaterapia y la neuroplasticidad, facilitando la inserción y consolidación de nuevos hábitos a través de una experiencia sensorial consciente.
