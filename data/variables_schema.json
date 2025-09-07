@@ -1,0 +1,32 @@
+{
+  "frescura_percibida": {
+    "description": "Sensación física de expansión y alivio",
+    "type": "integer",
+    "min": 0,
+    "max": 10
+  },
+  "relajacion": {
+    "description": "Nivel de calma y somnolencia ligera",
+    "type": "integer",
+    "min": 0,
+    "max": 10
+  },
+  "mensaje_interno": {
+    "description": "Intensidad de percepción de bienestar",
+    "type": "integer",
+    "min": 0,
+    "max": 10
+  },
+  "reduccion_ansiedad": {
+    "description": "Nivel de ansiedad tras la sesión",
+    "type": "integer",
+    "min": 0,
+    "max": 10
+  },
+  "claridad_mental": {
+    "description": "Nivel de enfoque y claridad cognitiva",
+    "type": "integer",
+    "min": 0,
+    "max": 10
+  }
+}
