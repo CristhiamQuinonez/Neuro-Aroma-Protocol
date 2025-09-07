@@ -1,0 +1,14 @@
+{
+  "session_id": "001",
+  "date": "2025-09-06",
+  "protocol_stage": "insercion",
+  "variables": {
+    "frescura_percibida": 8,
+    "relajacion": 7,
+    "mensaje_interno": 9,
+    "reduccion_ansiedad": 6,
+    "claridad_mental": 7
+  },
+  "actividad_post_sesion": "Escribir en diario personal",
+  "notas": "Sensación inmediata de alivio en el pecho. Inspiración más profunda."
+}
