@@ -27,7 +27,8 @@ Este proyecto está licenciado bajo los términos de la
 ---
 
 # en-GitHub-
-[Protocolo de Aroma-terapia con Recalibración Neuronal y Programación de Hábitos](https:///Neuro-Aroma-Protocol/)
+[Protocolo de Aroma-terapia con Recalibración Neuronal y Programación de Hábitos](
+https://github.com/CristhiamQuinonez/Neuro-Aroma-Protocol)
 
 ---
 
@@ -38,5 +39,6 @@ Este proyecto está licenciado bajo los términos de la
 ### 📜 Atribución Recomendada
 Si reutilizas este trabajo, por favor atribúyelo de la siguiente manera:  
 **"Protocolo de Aroma-terapia con Recalibración Neuronal y Programación de Hábitos"**  
-por Cristhiam Quiñonez, disponible en [GitHub](https://github.com//Neuro-Aroma-Protocol),  
+por Cristhiam Quiñonez, disponible en [GitHub](
+https://github.com/CristhiamQuinonez/Neuro-Aroma-Protocol).,  
 bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
