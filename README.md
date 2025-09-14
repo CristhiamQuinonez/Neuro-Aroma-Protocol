@@ -1,6 +1,6 @@
 # HormigasAIS-Taller – Protocolo de Aroma-terapia y Neuroplasticidad
 
-**Autor**: [Cristhiam Quiñonez](https://en.m.wikipedia.org/wiki/User:HormigasAIS-Taller)  
+**Autor**: [CristhiamQuinonez](https://en.m.wikipedia.org/wiki/User:HormigasAIS-Taller)  
 **DOI y fuente verificable**: [![DOI](https://zenodo.org/badge/1051915596.svg)](https://doi.org/10.5281/zenodo.17070288)  
 
 ---
