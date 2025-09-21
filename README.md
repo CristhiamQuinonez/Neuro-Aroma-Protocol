@@ -1,3 +1,9 @@
+
+![H01-H10-H11-H100-H101](https://github.com/user-attachments/assets/7fbc5d66-08cd-4875-bcb5-48a91eaee218)
+
+
+
+
 # HormigasAIS-Taller – Protocolo de Aroma-terapia y Neuroplasticidad
 
 **Autor**: [Cristhiam Quiñonez] 
