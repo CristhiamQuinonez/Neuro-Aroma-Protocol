@@ -1,4 +1,4 @@
-
+l
 ![H01-H10-H11-H100-H101](https://github.com/user-attachments/assets/7fbc5d66-08cd-4875-bcb5-48a91eaee218)
 
 ## Integración científica  
@@ -9,6 +9,9 @@ Los estímulos olfativos afectan directamente al sistema límbico, responsable d
 En **2025** se publicó el protocolo de código abierto **"Neuro Aroma Protocol"**  
 (DOI: [10.5281/zenodo.17070288](https://doi.org/10.5281/zenodo.17070288)),  
 un software y enfoque metodológico que combina la aromaterapia con los principios de neuroplasticidad y formación de hábitos [17].  
+
+
+[zip](https://zenodo.org/records/17070288/files/CristhiamQuinonez/Neuro-Aroma-Protocol-atp.zip?download=1)
 
 El enfoque se basa en:  
 - Utilizar señales olfativas como *anclas sensoriales* para la regulación emocional [18].  
